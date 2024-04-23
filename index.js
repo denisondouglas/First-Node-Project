@@ -14,5 +14,5 @@ app.post("/users", (request, response) => {
 
   console.log(uuid.v4());
 
-  // const user = { id: uuid.v4(), name, age };
+  // Não to crendo no trampo que foi commitar isso aqui.
 });
